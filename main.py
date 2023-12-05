@@ -3,7 +3,7 @@ import streamlit as st
 
 import numpy as np
 import nltk
-nltk.download()
+nltk.download('rslp')
 
 st.set_page_config(page_title="Projeto Final de Ricardo")
 
